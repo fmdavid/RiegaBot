@@ -1,6 +1,6 @@
 # RiegaBot: riego automático con estadísticas en Google Drive
 
-os presento un proyecto con Arduino consistente en un riego automático con envío de datos a Google Drive y avisos a dispositivo móvil.
+Os presento un proyecto con Arduino consistente en un riego automático con envío de datos a Google Drive y avisos a dispositivo móvil.
 
 Otras características: control del nivel del depósito de agua, ajustes de la humedad mínima y máxima que se desea mantener en la planta, visualización en tiempo real de la humedad en la planta...
 
